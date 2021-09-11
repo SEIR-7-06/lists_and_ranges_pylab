@@ -11,7 +11,7 @@
 
 - Create a list named `students` containing some student names (strings).
 - Print out the second student's name.
-- Print out the last student's name.
+- Print out the last student's name. (how would you do this if you didn't know the length of the students list?)
 
 #### Exercise 2
 
