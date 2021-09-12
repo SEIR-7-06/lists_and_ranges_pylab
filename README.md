@@ -39,7 +39,7 @@
 	```python
 	{
 		'student': 'Tina',
-		'fav_food' 'Cheeseburger'
+		'currently_enrolled': True
 	}
 	```
 - Iterate over `cohort` printing out each element.
