@@ -42,7 +42,14 @@
 		'currently_enrolled': True
 	}
 	```
-- Iterate over `cohort` printing out each element.
+
+- Test out your handy-word by printing `cohort`.
+- Loop over `cohort` printing out each item in the format
+```bash
+Jane is currently enrolled
+Stu is currently enrolled
+Derek is currently enrolled
+```
 
 #### Exercise 7
 
