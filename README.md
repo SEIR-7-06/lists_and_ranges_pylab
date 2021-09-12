@@ -44,12 +44,14 @@
 	```
 
 - Test out your handy-word by printing `cohort`.
-- Loop over `cohort` printing out each item in the format
+- Loop over `cohort` printing out a message for each student dictionary in the list.
 ```bash
 Jane is currently enrolled
 Stu is currently enrolled
 Derek is currently enrolled
 ```
+
+## Hungry for More
 
 #### Exercise 7
 
