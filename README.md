@@ -51,7 +51,7 @@ Stu is currently enrolled
 Derek is currently enrolled
 ```
 
-## Hungry for More
+## Hungry for More - List Comprehensions
 
 #### Exercise 7
 
