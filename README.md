@@ -32,7 +32,7 @@
 - Iterate over the _key: value_ pairs in `home_town` and print a string for each item, for example:<br>"city = Arcadia"<br>"state = California"<br>"population = 58000"
 
 #### Exercise 6
-
+- Create a list named `current_students` and fill it with a few student strings.
 - Create an empty list named `cohort`.
 - Using a `for` loop, add one dictionary to the `cohort` list for each student name. Each dictionary should have this shape:
 
